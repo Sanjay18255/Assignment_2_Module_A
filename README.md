@@ -47,11 +47,5 @@ jupyter notebook
 - Open `report.ipynb`
 - Click **Cell → Run All**
 
-## Team Members
-| Name | Roll No |
-|------|---------|
-| Sanjay | 23110144 |
-| Thushar | 24110393 |
-
 ## Video Demonstration
-[Watch here](https://drive.google.com/file/d/1S_bG8CRIV-bTOH0ljurJJxwCryHjpW9u/view?usp=sharing)
+[Watch here the video](https://drive.google.com/file/d/1S_bG8CRIV-bTOH0ljurJJxwCryHjpW9u/view?usp=sharing)
